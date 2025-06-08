@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**KsuParkhamchuk/KsuParkhamchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Latest projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GPT 2](https://github.com/KsuParkhamchuk/GPT-2)
+[Multimodel chat powered by vLLM](https://github.com/KsuParkhamchuk/vllm-mm-chat-comparison)
+[Fine-tuning gemma3](https://github.com/KsuParkhamchuk/gemma3-sft)
+
+### Contacts and a bit about me
+
+[My website](https://www.kseniyaparkhamchuk.com/)
+[X](https://x.com/xena_pk)

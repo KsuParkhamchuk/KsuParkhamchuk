@@ -1,10 +1,10 @@
-## Hello, I am Kseniya 👋
+# Hello, I am Kseniya 👋
 
 Love building UI interfaces, AI applications and just turning good ideas into reality
 
 ---
 
-### Latest projects
+## Latest projects
   
 [GPT 2](https://github.com/KsuParkhamchuk/GPT-2)  
 a project where I covered a lot of key concepts of transformer architecture
@@ -17,7 +17,7 @@ fine-tuning technics + custom dataset
 
 ---
 
-### Contacts and a bit about me
+## Contacts and a bit about me
   
 [My website](https://www.kseniyaparkhamchuk.com/)
 

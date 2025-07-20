@@ -19,6 +19,6 @@ fine-tuning technics + custom dataset
 
 ## Contacts and a bit about me
   
-[My website](https://www.kseniyaparkhamchuk.com/)
+[My website](https://kseniyaparkhamchuk.com/whoami)
 
 [X](https://x.com/xena_pk)

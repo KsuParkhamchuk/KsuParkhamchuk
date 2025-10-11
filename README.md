@@ -1,6 +1,6 @@
 # Hello, I am Kseniya 👋
 
-Love building UI interfaces, AI applications and just turning good ideas into reality
+Doing ML and research in mechanistic interpretability, like prototyping interfaces, and passionate about meaningful human-AI collaboration use cases
 
 ---
 
@@ -12,8 +12,8 @@ a project where I covered a lot of key concepts of transformer architecture
 [Multimodel chat powered by vLLM](https://github.com/KsuParkhamchuk/vllm-mm-chat-comparison)  
 vLLM exploration, inference optimizations
 
-[Fine-tuning gemma3](https://github.com/KsuParkhamchuk/gemma3-sft)  
-fine-tuning technics + custom dataset
+[Attention-visualizer]([https://github.com/KsuParkhamchuk/gemma3-sft](https://github.com/KsuParkhamchuk/attn-visualizer))  
+GPT2 and Bert basic attention visualization + streamlit application
 
 ---
 

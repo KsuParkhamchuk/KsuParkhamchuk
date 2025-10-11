@@ -12,7 +12,7 @@ a project where I covered a lot of key concepts of transformer architecture
 [Multimodel chat powered by vLLM](https://github.com/KsuParkhamchuk/vllm-mm-chat-comparison)  
 vLLM exploration, inference optimizations
 
-[Attention-visualizer]([https://github.com/KsuParkhamchuk/gemma3-sft](https://github.com/KsuParkhamchuk/attn-visualizer))  
+[Attention-visualizer](https://github.com/KsuParkhamchuk/attn-visualizer)  
 GPT2 and Bert basic attention visualization + streamlit application
 
 ---

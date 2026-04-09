@@ -1,16 +1,16 @@
 # Hello, I am Kseniya 👋
 
-Doing ML and research in mechanistic interpretability, like prototyping interfaces, and passionate about meaningful human-AI collaboration use cases
+I am doing AI Safety research, like prototyping interfaces, and passionate about meaningful human-AI collaboration
 
 ---
 
 ## Latest projects
+
+[Autointerpretability agent](https://library.sparai.org/reports/automating-interpretability-with-agents-alwhtt/)  
+MCP,  Mechanistic interpretability, Agentic workflows
   
 [GPT 2](https://github.com/KsuParkhamchuk/GPT-2)  
-a project where I covered a lot of key concepts of transformer architecture
-
-[Multimodel chat powered by vLLM](https://github.com/KsuParkhamchuk/vllm-mm-chat-comparison)  
-vLLM exploration, inference optimizations
+Transformer architecture and optimizations, no PyTorch, comprehensive documentation
 
 [Attention-visualizer](https://github.com/KsuParkhamchuk/attn-visualizer)  
 GPT2 and Bert basic attention visualization + streamlit application
